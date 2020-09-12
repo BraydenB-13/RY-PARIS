@@ -98,7 +98,7 @@ figcaption {
 
 .gray {
     font-family: sans-serif;
-    background-color: lightgray;
+    background-color: #dadfea
 }
 
 .second-images {
@@ -152,7 +152,7 @@ figcaption {
 .gray2 {
     padding: 20px;
     font-family: sans-serif;
-    background-color: lightgray;
+    background-color: #dadfea;
 }
 
 h3 {
@@ -219,7 +219,7 @@ button {
 
 .gray3 {
     font-family: sans-serif;
-    background-color: lightgray;
+    background-color: #eef0f4;
     margin: 20px 50px;
     font-size: 125%;
 }
@@ -259,7 +259,7 @@ ol>li {
 .video {
     display: flex;
     justify-content: space-evenly;
-    background-color: lightgray;
+    background-color: #dadfea;
     padding-top: 20px;
     padding-bottom: 20px;
 }
