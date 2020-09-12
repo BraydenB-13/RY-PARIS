@@ -70,25 +70,23 @@ p {
 }
 
 figure {
+    overflow: hidden;
     font-family: sans-serif;
     background-color: #ffffff;
     text-align: center;
 }
 
 .first-images1 {
-    overflow: hidden;
     width: 350px;
     height: 200px;
 }
 
 .first-images2 {
-    overflow: hidden;
     width: 225px;
     height: 200px;
 }
 
 .first-images3 {
-    overflow: hidden;
     width: 275px;
     height: 200px;
 }
@@ -99,25 +97,21 @@ figure {
 }
 
 .second-images {
-    overflow: hidden;
     width: 175px;
     height: 150px;
 }
 
 .third-images1 {
-    overflow: hidden;
     width: 175px;
     height: 150px;
 }
 
 .third-images2 {
-    overflow: hidden;
-    width: 225px;
+    width: 200px;
     height: 150px;
 }
 
 .third-images3 {
-    overflow: hidden;
     width: 225px;
     height: 150px;
 }
